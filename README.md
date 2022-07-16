@@ -1,2 +1,2 @@
-# medNour
-my personal repository(about me)
+# Hey There :exclamation: :wave: , I'm Med Noor :boy: 
+
