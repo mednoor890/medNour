@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer & seeking to be a software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
-- :telescope: I’m an alumni of higher institute of computer science of Mahdia where i got my bachelor degree and learnt the basics of programming ,Nevertheless it s just the beginning of my journey,My goal is to keep learning by making real world projects,bugs and errors which are the best way that leads to a "perfect product"
+- :telescope: I’m an alumni of higher institute of computer science of Mahdia where i got my bachelor degree and learnt the basics of programming ,Nevertheless it s just the beginning of my journey,My goal is to keep learning by making real world projects,Finding bugs and errors which are the best way that leads to a "perfect product"
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-noor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nour-haj-ammar-68b717175/)
 ---
 
