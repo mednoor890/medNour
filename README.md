@@ -1,5 +1,4 @@
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="100"/>
 </div>
@@ -23,7 +22,7 @@
   You are welcome in the profile of <em> Med Noor </em>
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/7ALOsHTCDT5fi/giphy.gif" >
+<img alt="" class="x6ikm8r x10wlt62 x10l6tqk x17qophe x1cp7mul" referrerpolicy="origin-when-cross-origin" src="https://scontent.ftun5-1.fna.fbcdn.net/m1/v/t6/An9pphqfIKqEqzTOWTG7OPjLVejQTq1NdyJpfSBmWKEzekdOx5mIDb04V-zfOafiXfQYqgM-nX3Gmm3HftA6dWoXzFyq_fSjvp7fo8YH3hWVRgGeWJ0Abx2Un-vJ8C89uYa6w1o-gSWsBrySijD28ISWf8k9aMyd4KjlEv41Els1ZBvIzn3V.WEBP?stp=s620x620&amp;strext=1&amp;ccb=10-5&amp;oh=00_AfDPuErpMDVcgU6H588tkg4sA44G20IkW-wEkRpWQ2Q1vQ&amp;oe=64A73532&amp;_nc_sid=f758f6">
 </div>
 <hr>
 
@@ -65,5 +64,6 @@ height="40"/>&nbsp;
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mednoor890&theme=chartreuse-dark	)](https://git.io/streak-stats)
-
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mednoor890&theme=green-nur&border_radius=15"/></a>
+</p>
