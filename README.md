@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   You are welcome in the profile of <em> Med Noor </em>
 </h1>
-<div align="center">
-<img alt="" class="x6ikm8r x10wlt62 x10l6tqk x17qophe x1cp7mul" referrerpolicy="origin-when-cross-origin" src="https://scontent.ftun5-1.fna.fbcdn.net/m1/v/t6/An9pphqfIKqEqzTOWTG7OPjLVejQTq1NdyJpfSBmWKEzekdOx5mIDb04V-zfOafiXfQYqgM-nX3Gmm3HftA6dWoXzFyq_fSjvp7fo8YH3hWVRgGeWJ0Abx2Un-vJ8C89uYa6w1o-gSWsBrySijD28ISWf8k9aMyd4KjlEv41Els1ZBvIzn3V.WEBP?stp=s620x620&amp;strext=1&amp;ccb=10-5&amp;oh=00_AfDPuErpMDVcgU6H588tkg4sA44G20IkW-wEkRpWQ2Q1vQ&amp;oe=64A73532&amp;_nc_sid=f758f6">
-</div>
+
+<div style="display: flex; justify-content: space-between">
+<img alt="avatar" src="https://scontent.ftun14-1.fna.fbcdn.net/m1/v/t6/An-Vl7rd4jpzMQWpI7kdJrs5JYfLt02CfwWRWzJUUJXF78s1bfn_I8r3fvSAK0YE6m6rUgTW-0PURHeT1Law7dSZ464HwebNyqj3wo0LV9TmlPXS_thZgZNLadPWhgy8VXv8P7rr0eV-LOMp9STuzKo3iND7xLMq8n-P7k3K4_seOlAnJu1V.WEBP?stp=s620x620&strext=1&ccb=10-5&oh=00_AfAS8sbZBVLQbNrI-dJ3BgCbc0Ga8seNuI3D95r0mFlfrA&oe=64A95241&_nc_sid=f758f6"/>
 <hr>
 
 ### :man_technologist: About Me :
