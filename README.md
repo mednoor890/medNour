@@ -1,5 +1,6 @@
 
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -20,10 +21,12 @@
   <em> HEY There </em> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   You are welcome in the profile of <em> Med Noor </em>
+  
 </h1>
 
 <div style="display: flex; justify-content: space-between">
-<img alt="avatar" src="https://scontent.ftun14-1.fna.fbcdn.net/m1/v/t6/An-Vl7rd4jpzMQWpI7kdJrs5JYfLt02CfwWRWzJUUJXF78s1bfn_I8r3fvSAK0YE6m6rUgTW-0PURHeT1Law7dSZ464HwebNyqj3wo0LV9TmlPXS_thZgZNLadPWhgy8VXv8P7rr0eV-LOMp9STuzKo3iND7xLMq8n-P7k3K4_seOlAnJu1V.WEBP?stp=s620x620&strext=1&ccb=10-5&oh=00_AfAS8sbZBVLQbNrI-dJ3BgCbc0Ga8seNuI3D95r0mFlfrA&oe=64A95241&_nc_sid=f758f6"/>
+<img alt="va" src="https://scontent.ftun14-1.fna.fbcdn.net/m1/v/t6/An_Ie2lQPW3jLbz_2MbTYTdT42NgQb1jLgpk_lMoJdC-2HuTeh-q_ktQRjrt-uPGGLgoiJnPo8g9wxLkYcuKjIApTNxs0VAAEmaR2gtppXKjwzFlpsjRpH7JHamBY6cZ-RVkW_Epgisak-z2Ks80kn1PiL2C_ijxtYhFGybwnSoOgNnRU8mw.WEBP?stp=s620x620&strext=1&ccb=10-5&oh=00_AfABa24JschBXMlbUatDFEP4RX2cXbKwWewZ1doqi0EMvw&oe=64A9569E&_nc_sid=f758f6"/>
+
 <hr>
 
 ### :man_technologist: About Me :
