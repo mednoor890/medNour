@@ -24,17 +24,18 @@
   
 </h1>
 
-<div style="display: flex; justify-content: space-between">
-<img alt="va" src="https://scontent.ftun14-1.fna.fbcdn.net/m1/v/t6/An_Ie2lQPW3jLbz_2MbTYTdT42NgQb1jLgpk_lMoJdC-2HuTeh-q_ktQRjrt-uPGGLgoiJnPo8g9wxLkYcuKjIApTNxs0VAAEmaR2gtppXKjwzFlpsjRpH7JHamBY6cZ-RVkW_Epgisak-z2Ks80kn1PiL2C_ijxtYhFGybwnSoOgNnRU8mw.WEBP?stp=s620x620&strext=1&ccb=10-5&oh=00_AfABa24JschBXMlbUatDFEP4RX2cXbKwWewZ1doqi0EMvw&oe=64A9569E&_nc_sid=f758f6"/>
 
+![image](https://github.com/mednoor890/mednoor890/assets/61027390/70980415-e746-4610-a6ac-29707dc5c64b)
+
+</div>
 <hr>
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer & seeking to be a software engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
-- :telescope: I’m an alumni of higher institute of computer science of Mahdia where i got my bachelor degree and learnt the basics of programming ,Nevertheless it s just the beginning of my journey,My goal is to keep learning by making real world projects,Finding bugs and errors which are the best way that leads to a "perfect product"
+- :telescope: I’m an alumni of higher institute of computer science of Mahdia where i got my bachelor degree and learnt the basics of programming ,Also i have a master degree in innovation and project management ,Nevertheless it s just the beginning of my journey,My goal is to keep learning by making real world projects,Finding bugs and errors which are the best way that leads to a "perfect product"
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-noor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nour-haj-ammar-68b717175/)
 ---
-
+![Image 2](https://scontent.ftun14-1.fna.fbcdn.net/m1/v/t6/An_kFmR6_911wnqQCcvspI_beSBfXEFyyspK_fUpJQ6juo3sA3AZUAjtVlPjxOgFgpE1XjHYKu9YclADXboU9P-nyox0StjjN52Q8bjHVUG_C8AzCAxXxpZRMChzV0B82iLnuEgfaNJl41w_AvkV-52f9DrqOJn3bL_f7bMYpxwdWESQDE7k.WEBP?stp=s620x620&strext=1&ccb=10-5&oh=00_AfCREMpjv-hwGgdKGw1OnDixSit18VVc2iT_7dBJsNQ_Wg&oe=64A9DD04&_nc_sid=f758f6)  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
